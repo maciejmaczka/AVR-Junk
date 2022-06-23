@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1395937874 source:/home/mac/Projekty/AVR/LCD2/fuse.c
+	<avr/io.h>
+
+1395946320 source:/home/mac/Projekty/AVR/LCD2/main.c
+	<avr/io.h>
+	<avr/delay.h>
+	<avr/interrupt.h>
+	<stdlib.h>
+	"HD44780.h"
+
+1395943547 /home/mac/Projekty/AVR/LCD2/HD44780.h
+	<avr/io.h>
+	<util/delay.h>
+
+1319210906 source:/home/mac/Projekty/AVR/LCD2/HD44780.c
+	"HD44780.h"
+

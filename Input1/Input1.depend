@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1389453054 source:/home/mac/Projekty/AVR/Input1/fuse.c
+	<avr/io.h>
+
+1389470642 source:/home/mac/Projekty/AVR/Input1/main.c
+	<avr/io.h>
+	<avr/delay.h>
+

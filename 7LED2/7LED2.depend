@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1388931628 source:/home/mac/Projekty/AVR/7LED2/main.c
+	<avr/io.h>
+	<util/delay.h>
+

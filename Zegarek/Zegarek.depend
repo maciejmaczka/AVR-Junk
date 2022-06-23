@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1389979344 source:/home/mac/Projekty/AVR/Zegarek/fuse.c
+	<avr/io.h>
+
+1389987249 source:/home/mac/Projekty/AVR/Zegarek/main.c
+	<avr/io.h>
+	<avr/delay.h>
+

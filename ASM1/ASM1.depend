@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1389631337 source:/home/mac/Projekty/AVR/ASM1/fuse.c
+	<avr/io.h>
+
+1389642499 source:/home/mac/Projekty/AVR/ASM1/main.c
+	<avr/io.h>
+	<avr/delay.h>
+	<avr/eeprom.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1395575495 source:/home/mac/Projekty/AVR/Przerwania1/fuse.c
+	<avr/io.h>
+
+1395580842 source:/home/mac/Projekty/AVR/Przerwania1/main.c
+	<avr/io.h>
+	<avr/delay.h>
+	<avr/interrupt.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1388924020 source:/home/mac/Projekty/AVR/AVR_TEST/main.c
+	<avr/io.h>
+	<util/delay.h>
+
